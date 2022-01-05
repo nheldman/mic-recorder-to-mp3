@@ -23,7 +23,7 @@
     "rollup-plugin-commonjs": "^8.0.2",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-uglify": "^2.0.1",
-    "rollup-watch": "^4.0.0"
+    "rollup-watch": "^3.2.2"
   },
   "babel": {
     "presets": [
@@ -39,7 +39,7 @@
     ]
   },
   "dependencies": {
-    "lamejs": "^1.2.0"
+    "lamejs": "^1.2.1"
   },
   "peerDependencies": {
     "webrtc-adapter": ">=4.1.1"
